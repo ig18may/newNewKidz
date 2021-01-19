@@ -1,0 +1,50 @@
+Create a section with two-thirds of a column left and 1 third in the right 
+on a white background.
+In the left column place the following text: 
+
+"DoodleKids Salon is a trendy modern kids’ salon, located in Wierda Park, Centurion.
+ We are dedicated to providing the best kids’ salon experience ever! Our kid friendly 
+stylists are trained to treat our little clients with absolute care and patience, 
+using quality child safe products and gentle hands. The salon prides itself in catering
+ for all types of hair and ethnicity, specialising in hair cutting, plaiting, braiding, 
+treatments, dreadlocks and so much more.
+
+At DoodleKids Salon, we have a waiting area for parents and a waiting lounge for 
+kids where they can choose to either read a book, play with the variety of educational 
+toys and games or tap into their creative side by drawing or colouring in. DoodleKids
+ also has a shuttle service for those times when parents are tied up.
+
+You already know that aching scalps and painful hairdos are not part of the 5 senses 
+that your little one should experience. So why have you not added us to your favourite 
+contacts yet?
+
+We take appointments to ensure that there is no waiting time for service, however, 
+walk-ins are welcome and will be attended to."
+
+
+
+
+In the right column create a purple block with the following details:
+
+"Working Hours
+Please note: On Sundays & Public Holidays we are open from 09:00 - 15:00
+
+Monday		CLOSED
+Tuesday		9 AM - 5 PM
+Wednesday	9 AM - 5 PM
+Thursday	9 AM - 5 PM
+Friday		9 AM - 5 PM
+Saturday	9 AM - 5 PM"
+
+Below the last day, place a yellow button, with a call to action "Contact Us" to 
+phone our client.
+
+
+Over the entire streach now add a section with a blue background and ad the 
+following text inside:
+Heading "Book your appointment today!"
+Subscript "Join us at our comfortable and fun filled Salon…"
+Place a Call to action button with text "CALL TO BOOK"
+
+
+End page with Top and Bottom Footers.

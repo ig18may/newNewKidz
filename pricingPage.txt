@@ -1,0 +1,55 @@
+Text color White unless specified otherwise.
+
+SECTION 1
+color yellow and background purple
+Heading "Pricing & Specials"
+
+SECTION 2
+Purple background with images scattered all over 
+Heading "KiddyHair Pricing"
+SubText color white "We offer a range of hair services starting from the following 
+prices:"
+
+In four quadrants:
+	Quadrant 1
+		background --> blue
+		Heading "Haircut"
+		Content "From R50"
+	Quadrant 2
+		background --> yellow
+		Heading "Cornrows"
+		Content "From R220"
+	Quadrant 3
+		background --> white
+		Heading "Hair treatment"
+		Content "From R200"
+	Quadrant 4
+		background --> #32355D
+		Heading "Braids"
+		Content "From R350"
+
+SECTION 3
+
+background blue
+Heading "Check out our full price guide!"
+Content "Download the full salon price guide now."
+
+Add button "Download"
+
+End page with top and bottom footers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

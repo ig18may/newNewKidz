@@ -1,0 +1,138 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	Our client has a hair salon that caters for kids, she needs a website.
+	Here's your instructions.
+	FOR ANY FURTHER QUESTION FEEL FREE TO CONTACT US.
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+The following colors are used:
+	Yellow ---> #FBBD41
+	Blue ---> #2DBDEE
+	Purple ---> #772F74
+Contact Info:
+	Number ---> 0645820362
+	Email ---> salon@adscampaign.co.za
+	Address ---> 1145 Combrink Street, Villieria, Pretoria 0186
+	
+
+Insert navbar that always remains at the top. Navbar needs 4 page links as 
+well as a contact number and the logo.
+Carry through to all pages
+Color of active page: Blue
+Color of in-active page: Black
+If mouse over menu item change color.
+
+Home Page
+
+	SECTION 1 gird 2 colums
+
+	Use the hero img and overlay the heading "Welcome to KiddyHair Salon!" 
+	With subtext under heading "Our purpose is to give our little clients the 
+	best kids salon experience ever!"
+	Scater some of the provided images to fill the remaining space on the hero 
+	image.
+
+	SECTION 2 gird 2 colums
+
+	Yellow background
+	Text color White 
+	Heading color purple
+	Insert icons with sub headings and subtext:
+
+	*Child Focused
+  		- We specialise in the styling and treatment of kids’ hair.
+	*Culturally Diverse
+  		- Our stylists are trained and skilled in managing all hair types.
+	*Shuttle Service
+  		- At your service, for your convenience.
+	*Creative Space
+  		- Our space inspires and encourages creativity.
+	*Waiting Lounge
+  		- Waiting area with read, create and play sections.
+	*Little Spa
+  		- For little man and little miss manis and pedis.
+
+
+	SECTION 3 gird 2 colums
+	
+	Heading color Yellow
+	Content color Grey
+	Heading "Product Range"
+	Content "We understand that kids’ hair can sometimes be fragile and needs 
+	to be treated with the utmost care. DoodleKids Salon only makes use 
+	of kid-safe products that are natural and free from sulphates, parabens, 
+	silicone and mineral oils. We also stock and retail hair care products and 
+	accessories. Ask about available products and accessories in store."
+	
+
+	SECTION 4 gird 2 colums
+	
+	background is yellow, text is white
+	Use img10 on the left side of the section. 
+	Content for right side of section
+		Heading "Shuttle Service"
+
+		Content "Mom, Dad, are you struggling to find time in your busy 
+		schedule for your little one’s salon visit? Struggle no more, we’ve 
+		got you. Book an appointment with us during the week and you have the 
+		option of having your child picked up from school or aftercare by 
+		our in-house shuttle and then dropped off after their hair appointment.
+		Call us or visit us in store for more info on our shuttle service.
+		*Terms and conditions apply."
+
+
+	
+	SECTION 5 gird 3 colums
+
+	Heading "Stay in the loop with everything DoodleKids."
+	Insert email Input field with a submit button.
+
+	SECTION 6 gird 3 colums
+
+	Insert img5 and scatter images to form a background.
+	Heading "Get in touch with us"
+	Content "We jsut want kids to have fun in our salon, 
+	doodling on our walls while gatting a fresh new look!"
+	Add contact us button-link
+
+
+	TOP FOOTER
+	background is purple, text is white.
+	Over half of section:
+		Heading is the white logo
+		Content "DoodleKids is based in Wierdapark, Centurion. We are a 
+		specialised hair salon for kids and our services include: 
+		braiding, cutting, plaiting and hair treatments. We also retail
+ 		some of the top proudly South African kids hair care ranges 
+		and various hair accessories."
+
+	Over 1/4 of the section:
+	Heading "Site Map"
+	Content, menu items
+	
+	Over other 1/4 of the section:
+	Heading "Get In Touch"
+	Content, add Contact Info.
+
+	BOTTOM FOOTER
+	
+	Left half:
+		Content	© Copyright 2020. KiddyHair Salon. All rights reserved.
+	Right half:
+		Developed by AdsCampaign (Pty) Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

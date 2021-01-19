@@ -1,0 +1,28 @@
+Contact Page
+
+Yellow banner with Purple block within.
+In puple block write out in yellow "Get In Touch"
+
+New section with heading in black "How to contact us"
+
+Set the following three yellow icons from fontawesome in a 
+row with appropriate sub text/links below each:
+
+fa fa-map | address
+fa fa-phone | number
+fa fa-envelope | email
+
+Then another section that is devided into two halfs
+
+on the left, place the image of the map.
+
+On the right create a contact form with the following fields:
+First name (textfield)
+Last name (textfield)
+Contact number (textfield)
+Email address (textfield)
+How many kids are you booking for?  (dropdown with options - 1 2 3 4 5)
+Please select your preffered date (date selector)
+You can use this block for any further instructions or questions (text area)
+
+End the page with the top & bottom footers.
