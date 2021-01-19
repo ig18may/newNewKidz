@@ -54,7 +54,7 @@ label #signOne, label #signTwo {
     font-size: 30px;
     color: black;
     float: right;
-    line-height: 50px;
+    line-height: 70px;
     margin-right: 30px;
     display: none;
 }
@@ -67,7 +67,7 @@ nav ul li a:hover {
     color: #FBBD41;
 }
 
-.try:hover {
+.try a:hover {
     color: #772F74;
 }
 
@@ -109,7 +109,7 @@ nav ul li a:hover {
     nav ul li {
         display: block;
         margin: 40px 0;
-        line-height: 30px;
+        line-height: 15px;
     }
 
     nav ul li a {
@@ -135,6 +135,10 @@ nav ul li a:hover {
  }
 
  @media (max-width:400px) {
+
+    nav ul li {
+        line-height: 7px;
+    }
      
     nav ul li a {
         font-size: 16px;
