@@ -73,20 +73,6 @@ nav ul li a:hover {
     display: none;
 }
 
-.footer1 {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    background-color: #772F74;
-}
-
-.footerStart img {
-    max-width: 20%;
-}
-
-.footerStart {
-    
-}
-
 @media (max-width:1200px) {
     nav ul {
         margin-right: 5%;
